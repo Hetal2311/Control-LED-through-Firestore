@@ -1,2 +1,2 @@
-//Use this simple Javascript to controll LEDs or any Devices in google firestore 
-script.js
+This simple Javascript to controll LEDs or any Devices in google firestore 
+
