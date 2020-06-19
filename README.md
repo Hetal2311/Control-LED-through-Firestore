@@ -1,3 +1,2 @@
-# hello_world
-hello world sample 
-hi
+//Use this simple Javascript to controll LEDs or any Devices in google firestore 
+script.js
